@@ -22,5 +22,5 @@
 #define TAPPING_FORCE_HOLD
 
 // Combo Settings
-#define COMBO_COUNT 4
+#define COMBO_COUNT 6
 #define COMBO_TERM 40
